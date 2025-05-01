@@ -17,4 +17,6 @@ The model predicts which **digital strategy** (e.g., SEO, Paid Ads, Influencer M
 - Decision Trees
 
 ## How to Use
-Clone the repo and run the notebook in `notebooks/`. You can replace the startup profile in the input section to get your recommendation.
+Clone the repo and run the notebook in `notebooks/`. You can replace the startup profile in the input section to get your recommendation. 
+
+![Project Screenshot](assets/Decision_Tree.png)
